@@ -4,5 +4,5 @@
   <p> Idade: 19</p>
   <p> Palmas/TO </p>
   <p>INSTAGRAM: https://www.instagram.com/rauner_lucas/</p>
-  <p>LINKEDIN: https: //www.linkedin.com/in/rauner-lucas-amaral-0b3a8a199</p>
+  <p>LINKEDIN: https://www.linkedin.com/in/rauner-lucas-amaral-0b3a8a199</p>
 </body>
